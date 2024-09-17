@@ -1,8 +1,8 @@
 # qcut.us 🔗✂️
 
-[https://qcut.us](Happy URL shortening! 🎉)
+[Happy Free URL shortening! 🎉](https://qcut.us)
 
-qcut.us is a powerful and flexible URL shortener built with Flask, Python, Tailwind CSS, and DaisyUI. It offers a range of features to enhance your link management experience.
+qcut.us is a different and flexible URL shortener built with Flask, Python, Tailwind CSS, and DaisyUI. It offers a range of features to enhance your link management experience.
 
 ## Features 🚀
 
